@@ -1,1 +1,1 @@
-A repo to host NetLogoWeb models about beetles and beans
+A repo for hosting NetLogoWeb models on a GitHub Page for easy access and use
